@@ -237,6 +237,7 @@ CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
 东森戏剧HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/416.ts
 东森戏剧HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/180.ts
 东森戏剧HD,http://156.238.248.80/2099.php?id=359
+东森幼幼台,https://live.catvod.com/live.php?id=yoyo_twn
 ANIMAX,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/200.ts
 
 电影频道,#genre#
