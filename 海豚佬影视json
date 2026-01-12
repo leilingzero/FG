@@ -51,14 +51,7 @@
             "filterable": 1,
             "ext": "https://gitee.com/abiubiud/xxs/raw/main/dr2/暖光影视.js"
         },
-        {
-            "key":"360_spider",
-            "name":"🐬360影视",
-             "api":"csp_SP360","type":3,
-             "filterable":1,
-            "quickSearch":1,
-            "searchable":1
-        },
+{"key":"360_spider"        ,"name":"🐞360影视📵","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
             {"key": "csp_Kugou",
 "name": "🐬酷狗音乐",
 "type": 3,
