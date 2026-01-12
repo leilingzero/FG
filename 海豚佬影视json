@@ -11,7 +11,7 @@
             "jar":"https://gitee.com/nm_nm/interface/raw/master/spider.jar;md5;06094f7f426755b6dd338459069a4e95",             "api": "csp_Qiyou"
         },
         {"key": "qysp",
-        "name": "🐬奇艺视频｜追剧",
+        "name": "🐬爱奇艺视频｜追剧",
         "type": 3,
         "api": "MJS_qysp"       ,
         "searchable": 1,
