@@ -1,10 +1,10 @@
 {
     "spider": "./tvbox.jar",
-    "logo": "https://imgs-qn.51miz.com/preview/element/00/01/38/90/E-1389004-8800C3A4.jpg?imageMogr2/thumbnail/720x/quality/90|imageMogr2/format/jpeg",
+    "logo": "https://photo.16pic.com/00/31/77/16pic_3177186_b.jpg",
     "wallpaper":"http://tool.teyonds.com/api",
     "warningText": "学习使用，资源来源于网络，请勿贩卖，请加载24小时后删除，出现其他问题与作者无关，请知悉！",
     "sites": [
-        {"key": "qysp",
+         {"key": "qysp",
         "name": "🐬爱奇艺视频｜追剧",
         "type": 3,
         "api": "MJS_qysp"       ,
@@ -20,15 +20,15 @@
             "type": 3,
             "jar":"https://gitee.com/nm_nm/interface/raw/master/spider.jar;md5;06094f7f426755b6dd338459069a4e95",             "api": "csp_Qiyou"
         },
-        {"key":"腾讯弹幕",
-        "name":"🐬腾讯视频｜追剧",
-        "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
-        "type":3,
-        "api":"https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
-        "searchable":1,
-        "quickSearch":0,
-        "changeable":1,
-        "ext":"https://gitee.com/yiwu369/6758/raw/master/JS/腾讯弹幕.js"
+        {"key": "txsp",
+        "name": "🐬腾讯视频｜追剧",
+        "type": 3,
+        "api": "MJS_txsp"       ,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "http://www.meowtv.cn/js/meow.php?file=txsp",
+        "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
         {"key": "mgsp",
         "name": "🐬芒果视频｜追剧",
@@ -150,7 +150,7 @@
         },
 {"name":"🐬小苹果🍎｜追剧","key":"小苹果丨影视","type":3,"api":"csp_XpgAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
 {"name":"🐬厂长🏭｜追剧","key":"厂长丨影视","type":3,"api":"csp_CzzyAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
-        {
+		{
 			"key": "muou",
 			"name": "🐬木偶4K｜追剧",
 			"type": 4,
@@ -225,7 +225,7 @@
 "playerType": 2,
 "ext": {"classes": [{"type_name": "酷狗",
 "type_id": "kugou"}]}}, 
-         {
+        {
 			"key": "网易云音乐",
 			"name": "🐬网易云｜音乐",
 			"type": 3,
@@ -283,8 +283,8 @@
 			"key": "51xiG",
 			"name": "🐬51吃瓜｜🔞",
 			"type": 4
-		}
-         {
+		},
+        {
 			"api": "https://learnpython.ggff.net/7QU",
 			"key": "7QU",
 			"name": "🐬7QU｜🔞",
@@ -318,7 +318,8 @@
         "header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
                 }
             }
-        }, 
+        },
+    
      {
 "name": "4k解析",
 "type": 1,
@@ -329,7 +330,9 @@
             "type": 1,
             "url": "http:\/\/121.40.174.45:777\/测试接口\/4K解析.php?url="
           
-        },   
+        },
+      
+     
         {   "name": "夏夜",
             "type": 1,
             "url": "http://8.155.50.80/xiayexk.php?url=",
