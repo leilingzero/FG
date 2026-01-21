@@ -58,18 +58,6 @@
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
       {
-      "key": "木瓜",
-      "name": "🥑木瓜┃App",
-      "type": 3,
-      "api": "csp_AppFoxGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "siteUrl": "http://www.yezitv.top"
-      },
-      {
       "key": "量子2k",
       "name": "🐬量子影视｜追剧",
       "type": 1,
