@@ -314,12 +314,7 @@ CCTV12社会与法,https://iptv.catvod.com/live.php?id=CCTV-12
 CCTV12社会与法,http://112.123.243.37:50085/tsfile/live/0013_1.m3u8
 CCTV12社会与法,http://222.214.208.34:59901/tsfile/live/0012_1.m3u8
 CCTV12社会与法,http://119.123.176.238:8086/hls/13/index.m3u8
-CCTV13新闻,http://tvlist.top/jd/index.php?id=cctv13&qt=183.224.122.114:8014
-CCTV13新闻,http://23.237.228.134/live3/CCTV13.m3u8
-CCTV13新闻,https://iptv.catvod.com/live.php?id=CCTV-13
-CCTV13新闻,http://39.152.103.17:8089/tsfile/live/1012_1.m3u8
-CCTV13新闻,http://59.173.123.31:8989/rtp/239.254.96.161:9040
-CCTV13新闻,http://39.165.39.49:19901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV13新闻1080p,http://39.152.103.17:8089/tsfile/live/1012_1.m3u8
 CCTV14少儿,http://tvlist.top/jd/index.php?id=cctv14&qt=183.224.122.114:8014
 CCTV14少儿,https://iptv.catvod.com/live.php?id=CCTV-14
 CCTV14少儿,http://27.41.245.32:801/hls/14/index.m3u8
