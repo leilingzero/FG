@@ -753,6 +753,12 @@
             "url": "https://t.freetv.fun/m3u/playlist.txt"
         },
         {
+			"name": "🦄4GTV",
+			"url": "http://xtvantsc.xyz/litv_ts.php",
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
+        {
             "name": "🦄4GTV(梯子台湾节点)",
             "type": 0,
             "ua": "okhttp",
